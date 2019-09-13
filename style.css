@@ -20,3 +20,6 @@ nav a {
 nav {
   text-align: center;
 }
+figcaption {
+  font-size: 11px;
+}
