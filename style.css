@@ -15,11 +15,12 @@ figure {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
+  background-color: grey;
   
 }
 nav {
   text-align: center;
-  background-color: grey;
+  
 }
 figcaption {
   font-size: 12px;
